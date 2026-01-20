@@ -1,0 +1,5 @@
+{
+  "name": "AI 천생연분 찾기",
+  "description": "생년월일을 기반으로 당신의 천생연분을 분석하고 이미지를 생성해주는 AI 서비스입니다.",
+  "requestFramePermissions": []
+}
